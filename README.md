@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Elroy! 👋<br>CS & Stats @ UofT🏫<br>Software Engineer @ Scotiabank 💻 
+Hi there, I'm Elroy! 👋<br>CS & Stats @ UofT🏫<br>Software Engineer @ Ontario Public Service 💻 
 
 
 ## 🌐 Socials:
